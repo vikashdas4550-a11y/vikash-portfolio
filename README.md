@@ -32,7 +32,7 @@ This portfolio showcases my skills, projects, education, and contact information
 
 ## 🌐 Live Demo
 
-https://vikashdas4550-a11y.github.io/Portfolio/
+https://vikashdas4550-a11y.github.io/vikash-portfolio/
 
 ## 👨‍💻 Author
 
