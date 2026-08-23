@@ -94,7 +94,7 @@ section{
     align-items:center;
     gap:60px;
 
-    background:url(photo/purple/Illustration/Mountain/Desktop/Wallpaperto.png)
+    /* background:url(photo/purple/Illustration/Mountain/Desktop/Wallpaperto.png) */
     center center/cover no-repeat;
 
     padding-top:120px;
